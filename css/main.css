@@ -387,7 +387,7 @@ Heo
 ===============
 */
 .hero {
-  background: url("/starter/assets/main.jpeg") center/cover no-repeat;
+  background: url("/assets/main.jpeg") center/cover no-repeat;
   height: 50vh;
   margin-bottom: 2rem;
   /* width: 90vw; */
